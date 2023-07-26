@@ -1,3 +1,4 @@
-1) Zip the CV/data folder
-2) Place CV folder into Google Drive
-3) Run the Collab files
+Instructions:
+- Zip the CV/data folder
+- Place CV folder into Google Drive
+- Run the Collab files
